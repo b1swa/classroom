@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* .header-button {
+  border-style: solid;
+  display: flex;
+  justify-content: space-around;
+} */
+
+.room {
+  display: flex;
+  /* border-style: solid; */
+  justify-content: space-around;
+}
+
+.teachers-box {
+  border-style: solid;
+}
+
+.students-box {
+  border-style: solid;
+}
